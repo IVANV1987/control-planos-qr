@@ -1,0 +1,2 @@
+# control-planos-qr
+VERIFICACION DE PLANOS - ANTILLEAN
