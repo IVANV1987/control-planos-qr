@@ -1,4 +1,4 @@
-name: Publicar estado QR
+name: .github/workflows/publicar.yml
 on:
   workflow_dispatch:
   schedule:
